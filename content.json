@@ -55,6 +55,22 @@
       "modelIds": [
         "eveelaurynn"
       ]
+    },
+    {
+      "id": "cherry-blossom-hearts",
+      "title": "Cherry Blossom Hearts",
+      "inspiration": "A playful candy-colored dream where rose-gold chrome hearts curl through cherry blossoms, glossy flowers, and a pastel-blue sky. Inspired by kawaii pop fantasy and springtime romance.",
+      "modelIds": [
+        "fvck_jiya"
+      ]
+    },
+    {
+      "id": "cloud-nine",
+      "title": "Cloud Nine",
+      "inspiration": "An airy pastel fantasy of smiling clouds, butterflies, mirrored hearts, and lavender blooms. Inspired by the softness of daydreams and the joy of imaginative editorial art.",
+      "modelIds": [
+        "fvck_jiya"
+      ]
     }
   ]
 }
