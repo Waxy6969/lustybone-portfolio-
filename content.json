@@ -31,5 +31,22 @@
       "avatar": "https://unavatar.io/instagram/fvck_jiya"
     }
   ],
-  "artworks": []
+  "artworks": [
+    {
+      "id": "fallen",
+      "title": "Fallen",
+      "inspiration": "A study in shadow, vulnerability, and transformation. Black wings, still water, and a dark reflection create a fallen-angel atmosphere.",
+      "modelIds": [
+        "violethemorage"
+      ]
+    },
+    {
+      "id": "divine",
+      "title": "Divine",
+      "inspiration": "A celestial counterpoint to Fallen: luminous wings, violet starlight, and a cosmic setting explore softness, wonder, and transcendence.",
+      "modelIds": [
+        "violethemorage"
+      ]
+    }
+  ]
 }
