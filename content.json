@@ -47,6 +47,14 @@
       "modelIds": [
         "violethemorage"
       ]
+    },
+    {
+      "id": "daisy-dreams",
+      "title": "Daisy Dreams",
+      "inspiration": "Inspired by the quiet romance of a summer meadow at golden hour. Soft pink ribbons, delicate daisies, and warm light frame a dreamy, storybook-inspired portrait.",
+      "modelIds": [
+        "eveelaurynn"
+      ]
     }
   ]
 }
