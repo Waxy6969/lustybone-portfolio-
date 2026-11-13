@@ -1,4 +1,15 @@
 {
-  "models": [],
+  "models": [
+    {
+      "id": "violethemorage",
+      "name": "VioletHemorage",
+      "socials": {
+        "Instagram": "https://www.instagram.com/violethemorage/",
+        "Threads": "https://www.threads.net/@violethemorage",
+        "Throne": "https://throne.com/violethemorage"
+      },
+      "bio": "Featured muse · Artwork coming soon."
+    }
+  ],
   "artworks": []
 }
