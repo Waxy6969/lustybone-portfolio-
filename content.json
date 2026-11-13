@@ -8,7 +8,8 @@
         "Threads": "https://www.threads.net/@violethemorage",
         "Throne": "https://throne.com/violethemorage"
       },
-      "bio": "Featured muse · Artwork coming soon."
+      "bio": "Featured muse · Artwork coming soon.",
+      "avatar": "https://unavatar.io/instagram/violethemorage"
     },
     {
       "id": "eveelaurynn",
@@ -17,7 +18,8 @@
         "Instagram": "https://www.instagram.com/eveelaurynn/",
         "Website": "https://eveelaurynn.com/"
       },
-      "bio": "Featured muse · Cosplay and editorial creator. Artwork coming soon."
+      "bio": "Featured muse · Cosplay and editorial creator. Artwork coming soon.",
+      "avatar": "https://unavatar.io/instagram/eveelaurynn"
     },
     {
       "id": "fvck_jiya",
@@ -25,7 +27,8 @@
       "socials": {
         "Instagram": "https://www.instagram.com/fvck_jiya/"
       },
-      "bio": "Featured muse · Fashion, cosplay, and outfit styling. Artwork coming soon."
+      "bio": "Featured muse · Fashion, cosplay, and outfit styling. Artwork coming soon.",
+      "avatar": "https://unavatar.io/instagram/fvck_jiya"
     }
   ],
   "artworks": []
